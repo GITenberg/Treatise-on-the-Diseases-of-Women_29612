@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34031
     wikipedia: http://en.wikipedia.org/wiki/Lydia_Pinkham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29612#Treatise-on-the-Diseases-of-Women
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2009-08-05'
 gutenberg_type: Text
